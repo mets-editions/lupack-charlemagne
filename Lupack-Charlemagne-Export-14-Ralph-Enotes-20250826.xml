@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Lupack-Charlemagne-Export-14-Ralph-Enotes-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Explanatory Notes to The Tale of Ralph the Collier</title>
+        <author>Lupack, Alan</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-08" to="2025-09">Audited documents prior to print/export</resp>
+          <resp from="2025-07" to="2025-08">Collected metadata</resp>
+          <resp from="2025-05" to="2025-07">Copyedited and proofread</resp>
+          <resp from="2025-09" to="2025-09">Encoded TEI</resp>
+          <resp from="2025-07" to="2025-08">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-05" to="2025-08">Entered corrections for digital edition</resp>
+          <resp from="2025-05" to="2025-07">Entered corrections for print edition</resp>
+          <resp from="2025-05" to="2025-08">Formatted for XML export</resp>
+          <resp from="2025-09" to="2025-09">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2023-11" to="2023-11">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed and suggested explanatory notes</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Texas</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Lupack, Alan</editor>
+            <title>Three Middle English Charlemagne Romances</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>1990</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/lupack-charlemagne/blob/main/lupack-charlemagne-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 1990</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Lupack-Charlemagne-Export-14-Ralph-Enotes"/>
+      <div type="text">
+        <note type="enote" n="1">4<space rend="indent1"/><p>The phrase ‘fra Sanct Thomas’ has been
+            variously interpreted. Amours takes it to refer to the date of the feast of St. Thomas
+            the Apostle, December 21. Walsh follows Browne in reading it as suggesting that those
+            referred to are returning from a pilgrimage to Canterbury, where the tomb of St. Thomas
+            à Becket is located. Bawcutt and Riddy suggest that the phrase seems to refer to a place
+            and note the suggestion of H. M. Smyser that ‘Thomas’ be emended to ‘Dyonys.’ Speed’s
+            observation that the reference to the pilgrimage would be a literary device recalling
+            Chaucer’s <hi rend="italic">Canterbury Tales</hi> is worth keeping in mind. She also
+            notes that ‘Charlemagne lived and died almost four hundred years before Thomas B Becket
+            but such anachronism is familiar in medieval literature.’</p></note>
+        <note type="enote" n="2">5<space rend="indent1"/><p>The second ‘thay’ in this line means
+            ‘those,’ as it does again in l. 20 (second ‘thay’) and in l. 22 and elsewhere in the
+            text. In l. 21 the ‘thay’ should be translated ‘that’ since ‘wedderis’ (technically a
+            plural) has the singular sense of ‘storm.’</p></note>
+        <note type="enote" n="3">10<space rend="indent1"/><p>On ‘duchepeiris,’ see the note to <hi
+              rend="italic">Sowdone of Babylone</hi>, l. 241 (commenting on the ‘Dosipers,’ an
+            alternate spelling of the same word).</p></note>
+        <note type="enote" n="4">17<space rend="indent1"/><p>The first ‘deip’ in the line has been
+            emended by Speed to ‘drip’ and by Bawcutt and Riddy to ‘drift.’ Herrtage maintains
+            ‘deip’ but glosses it only with a question mark. Walsh suggests that the word may be ‘a
+            noun or nominalized adjective meaning that the snow was being driven in the “deep
+            places,” — valleys and rock chasms.’ This is surely the sense of the line, but the first
+            ‘deip’ (assuming the reading is correct) must refer to the snow itself which has mounted
+            up in the ‘mony deip dell.’</p></note>
+        <note type="enote" n="5">23<space rend="indent1"/><p>‘Prime’ is the canonical hour, the
+            fixed part of the Divine Office to be sung or recited at a specific time, for the first
+            hour of the day (6 a.m. or sunrise).</p></note>
+        <note type="enote" n="6">46<space rend="indent1"/><p>A ‘collier’ is one who makes and sells
+            charcoal.</p></note>
+        <note type="enote" n="7">63<space rend="indent1"/><p>‘Sanct July’ is Saint Julian the
+            Hospitaller, the patron saint of inn keepers and travellers.</p></note>
+        <note type="enote" n="8">96<space rend="indent1"/><p>The phrase ‘cheveris with the chin’ is
+            the equivalent of ‘our teeth are chattering.’</p></note>
+        <note type="enote" n="9">123<space rend="indent1"/><p>When ‘part’ is used with a cardinal
+            number, it indicates ‘a proportion one measure short of a whole’ (<hi rend="italic"
+              >MED</hi>). Thus ‘twa part’ is literally ‘two-thirds.’ The sense of the phrase is
+            probably best conveyed in modern English by the translation of Bawcutt and Riddy: ‘more
+            than half annoyed.’</p></note>
+        <note type="enote" n="10">126<space rend="indent1"/><p>This line alludes to a proverb:
+            ‘Nature ought to crawl where it cannot walk.’ The line translates: “‘Now is one time
+            when,’ said the Collier, ‘nature ought to crawl.’” The suggestion is that his guest’s
+            natural courtesy should lead him to act in a way that is appropriate to the
+            circumstances even if different from his normal way of doing things.</p></note>
+        <note type="enote" n="11">147<space rend="indent1"/><p>In this line ‘fair’ seems to be used
+            in the sense of a ‘fuss’ and ‘strange’ in the sense of ‘alien’; thus the line suggests
+            that by offering to let Rauf go before him, Charlemagne is once again extending a
+            courtesy that is inappropriate to the circumstances and thus not really a courtesy at
+            all.</p></note>
+        <note type="enote" n="12">235<space rend="indent1"/><p>The shrine of Saint James the Apostle
+            at Compostela was a famous pilgrimage site. According to medieval legend, James preached
+            the gospel in Spain and even fought against the Moors.</p></note>
+        <note type="enote" n="13">239<space rend="indent1"/><p>The Wardrobe is ‘the office or
+            department of a royal or noble household charged with the care of the wearing apparel’
+              (<hi rend="italic">OED</hi>).</p></note>
+        <note type="enote" n="14">309–10<space rend="indent1"/><p>These lines are difficult to make
+            sense of as they stand in other editions (‘For thow will never gif the mair / To make
+            ane lesing’). Browne suggested translating them as ‘Thou wilt nevermore undertake (give
+            thyself) to tell a lie.’ Speed translates: ‘for you will never again undertake (<hi
+              rend="italic">literally</hi>, give yourself) to tell a lie.’ Walsh proposes
+            translating: ‘You won’t give yourself anymore trouble by telling a lie.’ None of these
+            interpretations makes much sense in the context. However, by emending ‘ane’ to ‘nane’
+            and taking line 310 as a filler of the type employed by the poet in several other
+            places, the lines make perfect sense. Rauf says, in effect, ‘I’ll surely be there
+            tomorrow because you will never give any more, in truth [literally, to make no lie].’
+            That is, he can never expect to receive more than on the day after he has offered
+            shelter to his guest.</p></note>
+        <note type="enote" n="15">344–45<space rend="indent1"/><p>A ‘convent’ of priests would be
+            those living together in one religious community. The phrase ‘at ane sicht’ might mean
+            that the priests are dressed in vestments (‘revest’) uniformly (as Speed suggests), or
+            it might depend on the verb ‘se’ — i.e., they were seen ‘at a glance’ or ‘all together’
+            (as Browne translates).</p></note>
+        <note type="enote" n="16">352<space rend="indent1"/><p>On St. Denis see the note to <hi
+              rend="italic">Sowdone of Babylone</hi>, l. 27.</p></note>
+        <note type="enote" n="17">370<space rend="indent1"/><p>Walsh and Speed both suggest that the
+            line implies that Gyliane thinks their guest didn’t return the blow because she was
+            present. It is also possible that the line might originally have read ‘and he ne had
+            bene allane’; that is, if he had his fellow courtiers with him, as he will when Rauf
+            journeys to court, he would have punished Rauf for his insolence.</p></note>
+        <note type="enote" n="18">374<space rend="indent1"/><p>Amours suggests that ‘layd’ is a
+            contraction of ‘lay it’ (i.e., stake it [my life]).</p></note>
+        <note type="enote" n="19">391<space rend="indent1"/><p>Browne suggests that here and in l.
+            481 ‘thing’ is used to refer to a person.</p></note>
+        <note type="enote" n="20">423<space rend="indent1"/><p>The line translates literally: ‘Then
+            bade him to cease his courtesy and prepare to go.’ That is, Roland wants Rauf to stop
+            kneeling to him, rise and prepare to go with him to court.</p></note>
+        <note type="enote" n="21">441<space rend="indent1"/><p>Bawcutt and Riddy, following Laing,
+            gloss ‘mad’ as ‘simple.’ The term thus refers to Rauf who says he is just a simple man.
+            Walsh and Speed make ‘mad man’ direct address, referring to Roland. In their reading,
+            Rauf, responding to Roland’s ‘sic ten’ in the previous line, says, ‘I am only one, mad
+            man. . . .’ Though the meaning ‘simple’ would be unusual for ‘mad’ something like
+            ‘foolish’ is elsewhere attested and ‘simple’ is not an unreasonable extension of that
+            meaning.</p></note>
+        <note type="enote" n="22">450<space rend="indent1"/><p>‘To Wymond nor Will’ means ‘to Wymond
+            nor to anyone else.’ The common name ‘Will’ is used much as we would use ‘Tom, Dick and
+            Harry.’</p></note>
+        <note type="enote" n="23">461<space rend="indent1"/><p>Bawcutt and Riddy are probably
+            correct in taking ‘sene’ as ‘seen’ (used pleonastically).</p></note>
+        <note type="enote" n="24">469<space rend="indent1"/><p>The line either means that Roland’s
+            greaves (the armor worn on the leg, below the knee) are [like] great clasps of gold
+            indeed; or, as Speed suggests (following Amours and Browne), the word ‘on’ has been
+            omitted and the line means that there are great clasps of gold <hi rend="italic">on</hi>
+            his greaves.</p></note>
+        <note type="enote" n="25">473<space rend="indent1"/><p>The line, which translates ‘tied all
+            over with topazes and true-love knots together,’ probably means that the topazes were
+            arranged in the shape of true-love knots, which the <hi rend="italic">OED</hi> defines
+            as knots ‘of a complicated and ornamental form (usually either a double-looped bow, or a
+            knot formed of two loops intertwined), used as a symbol of true love.’</p></note>
+        <note type="enote" n="26">511<space rend="indent1"/><p>‘Mat’ (meaning ‘obstruct’ or
+            ‘checkmate,’ as in chess) is emended to ‘mar’ by Walsh and by Bawcutt and
+          Riddy.</p></note>
+        <note type="enote" n="27">521<space rend="indent1"/><p>Editors generally take ‘toun man’ to
+            mean a resident of a town as opposed to someone living in the country, but the context
+            would seem to suggest that Roland sees Rauf as an example of a ‘toun man’ and not
+            different from one. <hi rend="italic">OED</hi> gives as one meaning of ‘town’ ‘a farm
+            with its farmhouse’ and notes that it still has this meaning in the Scottish dialect.
+            This is surely the sense intended here.</p></note>
+        <note type="enote" n="28">533<space rend="indent1"/><p>‘By books and bells’ is a mild oath.
+            Roland is swearing by sacred books and church bells.</p></note>
+        <note type="enote" n="29">563<space rend="indent1"/><p>The earliest reading ‘bland’ is
+            generally emended by modern editors to ‘band.’</p></note>
+        <note type="enote" n="30">611<space rend="indent1"/><p>Herrtage glosses ‘gift’ as ‘message.’
+            This is the sense of the word in this context, if not the literal meaning. The thing
+            that the swain has to give is the message about Rauf. The word was probably chosen more
+            for alliteration than for connotation.</p></note>
+        <note type="enote" n="31">613<space rend="indent1"/><p>The word ‘leif’ is taken by Walsh to
+            mean ‘leave’; the line then translates literally: ‘Unless he is let in quickly, he
+            doesn’t want to leave.’ Bawcutt and Riddy take it as ‘live’ and translate: ‘Unless he is
+            let in straight away, he does not want to go on living.’ The latter seems to make the
+            line coincide more naturally with modern English syntax, but the former seems more in
+            keeping with Rauf’s character.</p></note>
+        <note type="enote" n="32">619<space rend="indent1"/><p>The phrase ‘on ground’ means
+            literally ‘on the ground’ or ‘on the earth’ but here is an almost meaningless line
+            filler. The same might be said of ‘in this stound’ in the next line.</p></note>
+        <note type="enote" n="33">701<space rend="indent1"/><p>‘Can’ is used here as an auxiliary
+            indicating the past tense (the equivalent of ‘did’). The line thus translates: ‘He
+            thrust in through them and eagerly pushed.’</p></note>
+        <note type="enote" n="34">731<space rend="indent1"/><p>The phrase ‘and sa strait ford’ has
+            been interpreted in several different ways. Herrtage takes ‘ford’ as meaning ‘road’ or
+            ‘way’ and the phrase as meaning ‘so severe was the way.’ Bawcutt and Riddy take ‘ford’
+            to mean ‘for it’ and consider this a pleonastic expression; thus ‘strait,’ like ‘fell,’
+            would modify ‘frostis.’ Walsh reads ‘strait ford’ as ‘straight forth’; Charlemagne told
+            how he met Rauf, how fierce the frost was, and so straight forth (to the end of his
+            story). Herrtage’s reading, though apparently rejected by later editors, does fit the
+            context of the King’s story quite well.</p></note>
+        <note type="enote" n="35">760<space rend="indent1"/><p>A ‘forfeiture’ is an estate
+            confiscated as punishment for a crime; a ‘free ward’ is the estate of a deceased tenant
+            who did not have an heir old enough to inherit the property; in this case the control of
+            the land would revert to the overlord.</p></note>
+        <note type="enote" n="36">762<space rend="indent1"/><p>To ‘have hy’ is literally to ‘have
+            haste’; Speed seems to capture the sense of the phrase best with her gloss of ‘have
+            urgent need.’</p></note>
+        <note type="enote" n="37">765<space rend="indent1"/><p>To ‘win one’s shoes’ implies proving
+            oneself in combat.</p></note>
+        <note type="enote" n="38">782<space rend="indent1"/><p>‘Gest’ probably means ‘guest’ here;
+            but Browne takes it as ‘jest.’</p></note>
+        <note type="enote" n="39">822<space rend="indent1"/><p>Herrtage and Bawcutt and Riddy read
+            ‘bair’; Speed, following Browne, emends to ‘baft’ (‘struck’) and Walsh to ‘bait.’ The
+            basic sense of the line does not change whichever of these readings we accept: ‘These
+            men rained blows on [each other’s] helmets before they stopped.’</p></note>
+        <note type="enote" n="40">850<space rend="indent1"/><p>Mahoun (Mahomet or Mohammed) and
+            Termagant were thought to be gods worshipped by the Saracens.</p></note>
+        <note type="enote" n="41">861<space rend="indent1"/><p>Speed takes ‘Rude’ to mean ‘a rod’ (a
+            measure equivalent to sixteen and a half feet). But, considering the religious nature of
+            the conflict, the meaning of ‘Cross’ might apply equally well: ‘He made him move back
+            the length of a broad Cross.’ (Browne translates ‘Rude braid’ as
+          ‘Rood-breadth.’)</p></note>
+        <note type="enote" n="42">882<space rend="indent1"/><p>Walsh notes that Browne thought
+            ‘breif’ to be an error for ‘brey’ (frighten) and that the <hi rend="italic">Dictionary
+              of the Older Scottish Tongue</hi> cites this use of ‘breif’ as a possible erroneous
+            form. But it is likely that Bawcutt and Riddy are correct in reading ‘breif’ as a form
+            of ‘breven,’ which is commonly used in alliterative verse to mean ‘repeat or tell.’
+            Their extension of the meaning to ‘address’ in this line seems plausible.</p></note>
+        <note type="enote" n="43">886<space rend="indent1"/><p>Walsh cites Browne’s observation that
+            the line ‘the tane is in power to mak that presoun’ would make better sense if the poet
+            had written ‘the’ instead of ‘that’ but does not emend the line. Only Bawcutt and Riddy
+            emend to ‘the.’ I follow them in so emending. It seems an obvious slip to have read
+            ‘that’ instead of ‘the’ — especially given the appearance of the word ‘that’ in the
+            previous and the following lines. The line then translates: ‘The one of us has the power
+            to make you a prisoner.’</p></note>
+        <note type="enote" n="44">904<space rend="indent1"/><p>Tartary was the area inhabited by the
+            Tartars, who dwelt in ‘the region of Central Asia extending eastward from the Caspian
+            Sea. . . . First known in the West as applied to the mingled host of Mongols, Tartars,
+            Turks, etc., which under the leadership of Jenghiz Khan (1202–1227) overran and
+            devastated much of Asia and Eastern Europe . . .’ (<hi rend="italic"
+          >OED</hi>).</p></note>
+        <note type="enote" n="45">926<space rend="indent1"/><p>Walsh suggests that ‘be that ressoun’
+            is a line filler and rhyme tag that is ‘probably best left untranslated.’</p></note>
+        <note type="enote" n="46">936<space rend="indent1"/><p>Bawcutt and Riddy say that ‘god’ is
+            an ‘obvious error’ and emend to ‘gold,’ as do Walsh and Speed. However, ‘god’ in the
+            sense of ‘goods’ (i.e., worldly possessions) seems a possible reading here.</p></note>
+        <note type="enote" n="47">957<space rend="indent1"/><p>It is interesting that Magog is given
+            ‘Gawteir’ as his Christian name. In the <hi rend="italic">Sege of Melayne</hi> there is
+            reference to a ‘Sir Gawtere’ as a close relative of Charlemagne (ll. 377–378). Though
+            the characters can not be one and the same, it seems clear that the author of <hi
+              rend="italic">Rauf Coilyear</hi> is borrowing a traditional name for one of
+            Charlemagne’s knights.</p></note>
+      </div>
+    </body>
+  </text>
+</TEI>

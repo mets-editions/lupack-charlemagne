@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Lupack-Charlemagne-Export-12-Siege-Enotes-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Explanatory Notes to The Siege of Milan</title>
+        <author>Lupack, Alan</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-08" to="2025-09">Audited documents prior to print/export</resp>
+          <resp from="2025-07" to="2025-08">Collected metadata</resp>
+          <resp from="2025-05" to="2025-07">Copyedited and proofread</resp>
+          <resp from="2025-09" to="2025-09">Encoded TEI</resp>
+          <resp from="2025-07" to="2025-08">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-05" to="2025-08">Entered corrections for digital edition</resp>
+          <resp from="2025-05" to="2025-07">Entered corrections for print edition</resp>
+          <resp from="2025-05" to="2025-08">Formatted for XML export</resp>
+          <resp from="2025-09" to="2025-09">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2023-11" to="2023-11">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed and suggested explanatory notes</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Texas</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Lupack, Alan</editor>
+            <title>Three Middle English Charlemagne Romances</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>1990</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/lupack-charlemagne/blob/main/lupack-charlemagne-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 1990</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Lupack-Charlemagne-Export-12-Siege-Enotes"/>
+      <div type="text">
+        <note type="enote" n="1">19<space rend="indent1"/><p>Here, as often in this text, ‘gon’ or
+            the alternate spelling ‘gan’ (past tense of ‘gin,’ [‘to begin’]) is used as an auxiliary
+            (like ‘did’ in more modern times) indicating the past tense of a verb. Thus ‘gon he wyn’
+            means ‘he conquered.’</p></note>
+        <note type="enote" n="2">169<space rend="indent1"/><p>Ganelon is the traditional traitor of
+            the Charlemagne romances. In <hi rend="italic">The Song of Roland</hi> his hatred for
+            Roland leads him to betray Charlemagne’s rear guard at Roncevalles.</p></note>
+        <note type="enote" n="3">395<space rend="indent1"/><p>‘Mahownn’ is Mohammed, whom medieval
+            Christians believed was worshipped by the Saracens as a deity.</p></note>
+        <note type="enote" n="4">406<space rend="indent1"/><p>‘Goddis’ is the singular possessive
+            form depending on the noun ‘forbode’ (a forbidding or prohibition). ‘Goddis forbode’ =
+            ‘God forbid!’</p></note>
+        <note type="enote" n="5">416a<space rend="indent1"/><p>Metrically this is an extra line in
+            the stanza. Mills sees the line as another example of the ‘triplets’ which are used
+            instead of couplets ‘quite often in the Thornton text of <hi rend="italic"
+            >Isumbras</hi>’ (p. 193). But the line remains an aberration in the metrical pattern of
+              <hi rend="italic">The Sege of Melayne</hi>. A ‘bale-fire’ is a blazing pile or heap
+            kindled to consume something.</p></note>
+        <note type="enote" n="6">420<space rend="indent1"/><p>‘So mote I gone’ is one of those near
+            meaningless expressions often used to fill out a line in the Middle English metrical
+            romances.</p></note>
+        <note type="enote" n="7">471<space rend="indent1"/><p>The reference is to the elements or
+            four substances (earth, air, fire, and water) which were believed to make up all
+            material things.</p></note>
+        <note type="enote" n="8">506<space rend="indent1"/><p>On St. Denis, see the note to <hi
+              rend="italic">Sowdone of Babylone</hi>, line 27.</p></note>
+        <note type="enote" n="9">516<space rend="indent1"/><p>‘Prime’ is the canonical hour (a fixed
+            part of the Divine Office to be sung or recited at a specific time) for the first hour
+            of the day (6 a.m. or sunrise).</p></note>
+        <note type="enote" n="10">577<space rend="indent1"/><p>Herrtage notes that ‘syne’ must be a
+            corrupt reading ‘but the true reading is not clear.’ Mills emends to ‘fyne.’ ‘Syne’ must
+            be a form of ‘son,’ the unusual spelling being for the sake of rhyme. It is perfectly
+            appropriate for Charlemagne to refer to his nephew as the son of his
+          relative.</p></note>
+        <note type="enote" n="11">603<space rend="indent1"/><p>If we translate ‘bot’ as ‘but’ in
+            this line, ‘it’ must refer to the cursing of the advisor, in which case the line
+            translates: ‘and undoubtedly it [cursing him] is right.’ Another (though less likely)
+            possibility is to read ‘bot’ as a form of ‘boute’ (meaning ‘about’) and translate: ‘and
+            nothing about it [the advice] is right.’</p></note>
+        <note type="enote" n="12">704<space rend="indent1"/><p>Here and again in line 989 the phrase
+            ‘under thy schelde’ means something like ‘in battle.’</p></note>
+        <note type="enote" n="13">773–74<space rend="indent1"/><p>If we translate the lines
+            literally, line 774 must be taken as an almost meaningless metrical filler. It only
+            makes sense if we extend the meaning of ‘tythynges’ beyond the ‘event’ or ‘news’ (the
+            literal meaning) to those people who represent the new event referred to. They could
+            come ‘with banners raised.’</p></note>
+        <note type="enote" n="14">856<space rend="indent1"/><p>This line presents some difficulty
+            and may be corrupt. Herrtage admits in a note ‘I do not exactly understand this line’;
+            and Mills glosses it only with a question mark. As it stands it seems to suggest that
+            the sapphire presented to the Sultan is invisible.</p></note>
+        <note type="enote" n="15">870<space rend="indent1"/><p>The word ‘lede’ normally means
+            ‘people’; here it must mean something like ‘the customs of a people.’ Thus the line
+            means: ‘They believed in heathen customs.’</p></note>
+        <note type="enote" n="16">878<space rend="indent1"/><p>‘Whereals’ is used here in the sense
+            of ‘where.’</p></note>
+        <note type="enote" n="17">913–16<space rend="indent1"/><p>A ‘kirtle’ is ‘a man’s tunic or
+            coat which reached to the knees’; a ‘corset’ refers here to the ‘corslet’ which is ‘a
+            piece of defensive armor covering the body’; an ‘acton’ is ‘a stuffed jacket or jerkin,
+            at first of quilted cotton worn under the mail; also, in later times, a jacket of
+            leather or other material plated with mail’; a ‘hauberk’ is a coat of mail; a ‘jazerant’
+            or ‘jesserant’ is ‘a light coat of armor composed of splints or small plates of metal
+            riveted to each other or to a lining of some stout material.’ (Definitions are from the
+              <hi rend="italic">OED</hi>.)</p></note>
+        <note type="enote" n="18">957<space rend="indent1"/><p>The <hi rend="italic">OED</hi>
+            defines ‘tepet’ (see under ‘tippet,’ where this line is cited) as ‘camail,’ which is ‘a
+            piece of chain-mail armour attached to the basinet or head-piece, and protecting the
+            neck and shoulders.’</p></note>
+        <note type="enote" n="19">976<space rend="indent1"/><p>A ‘gowere pendande’ is a ‘pendant
+            attached to a coat of mail’ (<hi rend="italic">MED</hi>).</p></note>
+        <note type="enote" n="20">997<space rend="indent1"/><p>‘Famagose’ is Famagusta on
+            Cypress.</p></note>
+        <note type="enote" n="21">1163<space rend="indent1"/><p>There seems to be a connective
+            missing at the beginning of this line (e.g., ‘for’). Mills translates ‘Because of the
+            strength of its Saracen garrison.’</p></note>
+        <note type="enote" n="22">1233<space rend="indent1"/><p>In this line ‘baners’ must refer to
+            the men assembled around the standard or the phrase ‘breme als bare’ would be a totally
+            meaningless filler.</p></note>
+        <note type="enote" n="23">1289<space rend="indent1"/><p>Herrtage explains ‘bowes of devyce’
+            as ‘cross-bows worked with a rack or winch.’</p></note>
+        <note type="enote" n="24">1298<space rend="indent1"/><p>The suffix ‘-warde’ is here
+            separated from ‘fro’ (= ‘from’). Thus the line translates ‘And they ride away from the
+            city.’ (Compare this line to line 1310: ‘Frowarde the cité ride.’)</p></note>
+        <note type="enote" n="25">1303<space rend="indent1"/><p>The word ‘browe’ does not fit the
+            context since the spear wounded him in the side. Perhaps the correct reading is
+            something like ‘brawne.’ Mills emends the word to ‘browne’ and translates the line:
+            ‘Through the tough skin and unprotected flesh.’</p></note>
+        <note type="enote" n="26">1304<space rend="indent1"/><p>A ‘schaftemonde’ is ‘the distance
+            from the end of the extended thumb to the opposite side of the hand, used as a measure =
+            about 6 inches’ (<hi rend="italic">OED</hi>).</p></note>
+        <note type="enote" n="27">1402<space rend="indent1"/><p>The definitions of ‘baneret’ in the
+              <hi rend="italic">MED</hi> and the <hi rend="italic">OED</hi> indicate that the term
+            is generally applied to a high order of knighthood. However, the context here makes it
+            clear that Sir Barnarde is a standard bearer who has not yet achieved such distinction.
+            He calls himself ‘over symple’ to refuse the task, as some other knights have, and asks
+            to have the order of knighthood conferred on him for agreeing to deliver the
+            message.</p></note>
+        <note type="enote" n="28">1459<space rend="indent1"/><p>A ‘fewter’ is a support for a lance
+            on a knight’s saddle.</p></note>
+        <note type="enote" n="29">1474<space rend="indent1"/><p>A ‘warden’ is one in charge of a
+            division of an army.</p></note>
+        <note type="enote" n="30">1597<space rend="indent1"/><p>A ‘hurdas’ is a temporary rampart
+            used for assault.</p></note>
+      </div>
+    </body>
+  </text>
+</TEI>

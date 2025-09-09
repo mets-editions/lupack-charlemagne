@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Lupack-Charlemagne-Export-16-Bib-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bibliography</title>
+        <author>Lupack, Alan</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-08" to="2025-09">Audited documents prior to print/export</resp>
+          <resp from="2025-07" to="2025-08">Collected metadata</resp>
+          <resp from="2025-05" to="2025-07">Copyedited and proofread</resp>
+          <resp from="2025-09" to="2025-09">Encoded TEI</resp>
+          <resp from="2025-07" to="2025-08">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-05" to="2025-08">Entered corrections for digital edition</resp>
+          <resp from="2025-05" to="2025-07">Entered corrections for print edition</resp>
+          <resp from="2025-05" to="2025-08">Formatted for XML export</resp>
+          <resp from="2025-09" to="2025-09">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2023-11" to="2023-11">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Texas</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Lupack, Alan</editor>
+            <title>Three Middle English Charlemagne Romances</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>1990</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/lupack-charlemagne/blob/main/lupack-charlemagne-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 1990</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Lupack-Charlemagne-Export-16-Bib"/>
+      <div type="text">
+        <p style="heading4">Select Bibliography for <hi rend="italic">The Sultan of Babylon</hi></p>
+        <p style="heading2">Manuscripts</p>
+        <listBibl>
+          <bibl>No. 140 in the Robert Garrett Collection of Medieval and Renaissance Manuscripts,
+            now at Princeton University.</bibl>
+        </listBibl>
+        <p style="heading2">Previous Editions</p>
+        <listBibl>
+          <bibl><hi rend="italic">Romaunce of the Sowdone of Babylone Who Conquered Rome</hi>.
+            London: Roxburghe Club, 1854.</bibl>
+          <bibl><hi rend="italic">The Romaunce of the Sowdone of Babylone and of Ferumbras His Sone
+              Who Conquerede Rome</hi>. Ed. Emil Hausknecht. EETS e.s. 38. 1881; rpt. London: Oxford
+            UP for the EETS, 1969.</bibl>
+          <bibl>Lines 1491–3226 of <hi rend="italic">The Sultan of Babylon</hi> appear in <hi
+              rend="italic">Middle English Metrical Romances</hi>. Ed. Walter Hoyt French and
+            Charles Brockway Hale. New York: Russell &amp; Russell, 1964. I, 239–284.</bibl>
+        </listBibl>
+        <p style="heading2">Criticism</p>
+        <listBibl>
+          <bibl>Barron, W. R. J. <hi rend="italic">English Medieval Romance</hi>. London: Longman,
+            1987. Pp. 99–103.</bibl>
+          <bibl>Smyser, H. M. ‘The <hi rend="italic">Sowdon of Babylon</hi> and Its Author.’ <hi
+              rend="italic">Harvard Studies and Notes in Philology and Literature</hi>, 13 (1931),
+            185–218.</bibl>
+        </listBibl>
+        <p style="heading4">Select Bibliography for <hi rend="italic">The Siege of Milan</hi></p>
+        <p style="heading2">Manuscripts</p>
+        <listBibl>
+          <bibl>BM Additional 31042 (called the London Thornton Ms.), fols. 66b–79b.</bibl>
+        </listBibl>
+        <p style="heading2">Previous Editions</p>
+        <listBibl>
+          <bibl><hi rend="italic">‘The Sege off Melayne’ and ‘The Romance of Duke Rowland and Sir
+              Otuell of Spayne’ . . . Together with a Fragment of ‘The Song of Roland.’</hi> Ed.
+            Sidney J. Herrtage. EETS e.s. 35. London: N. Trübner for the Early English Text Society,
+            1880.</bibl>
+          <bibl><hi rend="italic">The Sege of Melayne</hi>. In <hi rend="italic">Six Middle English
+              Romances</hi>. Ed. Maldwyn Mills. London: Dent, 1973.</bibl>
+        </listBibl>
+        <p style="heading2">Criticism</p>
+        <listBibl>
+          <bibl>Barron, W. R. J. <hi rend="italic">English Medieval Romance</hi>. London: Longman,
+            1987. Pp. 92–98.</bibl>
+          <bibl>Mehl, Dieter. <hi rend="italic">The Middle English Romances of the Thirteenth and
+              Fourteenth Centuries</hi>. London: Routledge &amp; Kegan Paul, 1968. Pp.
+            152–156.</bibl>
+          <bibl>Thompson, John J. <hi rend="italic">Robert Thornton and the London Thornton
+              Manuscript, British Library MS Additional 31042</hi>. Manuscript Studies 2. Cambridge:
+            D. S. Brewer, 1987. (A study of the manuscript.)</bibl>
+        </listBibl>
+        <p style="heading4">Select Bibliography for <hi rend="italic">The Tale of Ralph the
+            Collier</hi></p>
+        <p style="heading2">Manuscripts</p>
+        <listBibl>
+          <bibl>No manuscript survives. All modern editions are based on the 1572 edition of Robert
+            Lekpreuik, reproduced in a facsimile edition: <hi rend="italic">The Taill of Rauf
+              Coilyear: Printed by Robert Lekpreuik at St. Andrews in 1572: A Facsimile of the Only
+              Known Copy</hi>. Keppie Facsimiles No. 1. Ed. W. Beattie. Edinburgh: National Library
+            of Scotland, 1966.</bibl>
+        </listBibl>
+        <p style="heading2">Editions</p>
+        <listBibl>
+          <bibl><hi rend="italic">The Tale of Rauf Coilyear</hi>. In <hi rend="italic">Early Popular
+              Poetry of Scotland and the Northern Border</hi>. Edited by David Laing LL.D. in 1822
+            and 1826. Re-Arranged and Revised with Additions and a Glossary by W. Carew Hazlitt. 2
+            vols. London: Reeves and Turner, 1895.</bibl>
+          <bibl><hi rend="italic">The Tail of Rauf Coilyear: Mit literarhistorischer, grammatischer
+              und metrischer Einleitung</hi>. Ed. M. Tonndorf. Berlin: C. Vogt’s Verlag,
+            1894.</bibl>
+          <bibl><hi rend="italic">Rauf Coilyear</hi>. In <hi rend="italic">Scottish Alliterative
+              Poems in Riming Stanzas</hi>. Ed. F. J. Amours. Edinburgh: Scottish Text Society,
+            1897.</bibl>
+          <bibl><hi rend="italic">The Taill of Rauf Coilyear: A Scottish Metrical Romance of the
+              Fifteenth Century</hi>. Ed. William Hand Browne. Baltimore: The Johns Hopkins Press,
+            1903.</bibl>
+          <bibl><hi rend="italic">The Taill of Rauf Coilyear</hi>. In <hi rend="italic">Longer
+              Scottish Poems</hi>. 2 vols. Ed. Priscilla Bawcutt and Felicity Riddy. Edinburgh:
+            Scottish Academic Press, 1987.</bibl>
+          <bibl><hi rend="italic">Rauf Coilyear</hi>. In <hi rend="italic">Medieval English
+              Romances</hi>. Ed. Diane Speed. Sydney: Dept. of English, University of Sydney,
+            1989.</bibl>
+          <bibl><hi rend="italic">The Tale of Ralph the Collier: An Alliterative Romance</hi>. Ed.
+            Elizabeth Walsh. New York: Peter Lang, 1989.</bibl>
+        </listBibl>
+        <p style="heading2">Criticism</p>
+        <listBibl>
+          <bibl>Barron, W. R. J. <hi rend="italic">English Medieval Romance</hi>. London: Longman,
+            1987. Pp. 181–82.</bibl>
+          <bibl>Oakden, J. P. <hi rend="italic">Alliterative Poetry in Middle English</hi>. 2 vols.
+            in 1. 1930, 1935; rpt. Hamden, CT: Archon Books, 1968.</bibl>
+          <bibl>Smyser, H. M. ‘<hi rend="italic">The Taill of Rauf Coilyear</hi> and Its Sources.’
+              <hi rend="italic">Harvard Studies and Notes in Philology and Literature</hi>, 14
+            (1932), 135–150.</bibl>
+          <bibl>Walsh, Elizabeth. ‘<hi rend="italic">The Tale of Rauf Coilyear</hi>: Oral Motif in
+            Literary Guise.’ <hi rend="italic">Scottish Literary Journal</hi>, 6.2 (1979),
+            5–19.</bibl>
+        </listBibl>
+      </div>
+    </body>
+  </text>
+</TEI>

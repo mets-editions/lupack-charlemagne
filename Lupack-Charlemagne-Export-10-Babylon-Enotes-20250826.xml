@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Lupack-Charlemagne-Export-10-Babylon-Enotes-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Explanatory Notes to The Sultan of Babylon</title>
+        <author>Lupack, Alan</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-08" to="2025-09">Audited documents prior to print/export</resp>
+          <resp from="2025-07" to="2025-08">Collected metadata</resp>
+          <resp from="2025-05" to="2025-07">Copyedited and proofread</resp>
+          <resp from="2025-09" to="2025-09">Encoded TEI</resp>
+          <resp from="2025-07" to="2025-08">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-05" to="2025-08">Entered corrections for digital edition</resp>
+          <resp from="2025-05" to="2025-07">Entered corrections for print edition</resp>
+          <resp from="2025-05" to="2025-08">Formatted for XML export</resp>
+          <resp from="2025-09" to="2025-09">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2023-11" to="2023-11">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed and suggested explanatory notes</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Texas</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Lupack, Alan</editor>
+            <title>Three Middle English Charlemagne Romances</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>1990</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/lupack-charlemagne/blob/main/lupack-charlemagne-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 1990</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Lupack-Charlemagne-Export-10-Babylon-Enotes"/>
+      <div type="text">
+        <note type="enote" n="1">27<space rend="indent1"/><p>Denis was the patron saint of France.
+            In 626 Dagobert I founded the Abbey of Saint-Denis in Paris at the site where St. Denis
+            was believed to be buried.</p></note>
+        <note type="enote" n="2">32<space rend="indent1"/><p>‘Askalon’ or Ascalon is a city in
+            Palestine, north of Gaza, on the Mediterranean. It was captured by Crusaders in 1153 and
+            recaptured by Saladin in 1187. The city is referred to again in line 1000
+            (‘Ascoloyne’).</p></note>
+        <note type="enote" n="3">46<space rend="indent1"/><p>Cf. the ‘General Prologue’ to the <hi
+              rend="italic">Canterbury Tales</hi> (lines 9–11), where Chaucer refers to this belief
+            that nightingales sleep with an open eye.</p></note>
+        <note type="enote" n="4">56<space rend="indent1"/><p>An ‘alaunt’ is ‘a highly prized
+            ferocious dog of a breed used in hunting, bull-baiting, etc.’; a ‘lymmer’ is ‘a hound
+            trained to be led on a leash and to track game by scent’; ‘racche’ refers to ‘a dog that
+            hunts by scent’ (<hi rend="italic">MED</hi>).</p></note>
+        <note type="enote" n="5">86<space rend="indent1"/><p>Mahounde and Appolyne (Apollo) are gods
+            thought to be worshipped by the Saracens.</p></note>
+        <note type="enote" n="6">113<space rend="indent1"/><p>Baldas is probably Bagdad. In <hi
+              rend="italic">The Alliterative Morte Arthure</hi>, the form ‘Baldake’ (for Bagdad)
+            appears. The fact that Lucafere is also called ‘That cruel kinge of Cassaundre’ (line
+            986) does not necessarily argue against identifying Baldas as Bagdad. Cassaundre is
+            probably Cassandria in Macedonia. However, Lucafere, who is also ‘Of Aufryke lorde and
+            governoure’ (line 114), seems to have been granted many lands because of his prowess. It
+            is also possible that the poet made Lucafere king of Cassaundre because he needed a
+            rhyme for ‘Alisaundre’ in line 984.</p></note>
+        <note type="enote" n="7">127<space rend="indent1"/><p>The maintop is a platform at the head
+            of the mainmast.</p></note>
+        <note type="enote" n="8">148<space rend="indent1"/><p>Here, as often in the romance, ‘gan’
+            is used as an auxiliary to indicate a past tense, much as we might use ‘did.’</p></note>
+        <note type="enote" n="9">241<space rend="indent1"/><p>The ‘Dosipers’ are the Twelve Peers or
+            principal warriors of Charlemagne. The term, from the French ‘douze pairs,’ comes to be
+            used as a synonym for ‘peer’ or ‘knight,’ so that we often find the etymologically
+            redundant ‘Twelve Dosipers,’ as we do here. In the <hi rend="italic">Chanson de
+              Roland</hi>, the Twelve Peers are said to be Roland, Olivier, Gérin, Gérier,
+            Bérengier, Otton, Samson, Engelier, Ivon, Ivoire, Anséis, and Girard. The list varies in
+            different works. In this romance, as lines 1688 ff. suggest, the Twelve Peers are
+            Roland, Oliver, Gy of Burgoyne, Duke Neymes of Baver, Ogere Danoys, Bery Lardeneys, Folk
+            Baliant, Aleroyse, Miron of Brabane, Bishop Turpyn, Bernard of Spruwse and Bryere of
+            Mountez.</p></note>
+        <note type="enote" n="10">257<space rend="indent1"/><p>The ‘Gallopes’ are perhaps the people
+            from Gallipoli on the Southern shore of the Gallipolli Peninsula, at the east end of the
+            Dardanelles.</p></note>
+        <note type="enote" n="11">495<space rend="indent1"/><p>The correct reading here is probably
+            ‘Ascopars’ rather than the ms. ‘Astopars.’ Forms of the name with the <hi rend="italic"
+              >c</hi> appear, as Hausknecht notes, in lines 2196 and 2648. A similar confusion
+            between <hi rend="italic">t</hi> and <hi rend="italic">c</hi> takes place in line 1424
+            (where I have again emended to read ‘Ascopartes’). The Ascopartes are apparently a
+            fearsome race of giants subject to the Sultan.</p></note>
+        <note type="enote" n="12">497<space rend="indent1"/><p>‘Askalous’ are people from Askalon
+            (see note to line 32), also referred to as ‘Ascoloynes’ in line 1040.</p></note>
+        <note type="enote" n="13">561<space rend="indent1"/><p>Matins is the first of the canonical
+            hours (i. e., the fixed parts of the Divine Office to be recited or sung at specified
+            hours of the day). Matins is followed by lauds, prime, terce, sext, none, vespers and
+            compline.</p></note>
+        <note type="enote" n="14">628–34<space rend="indent1"/><p>To hold ‘in fee’ means to possess
+            ‘by a heritable right subject to feudal obligations’ (see <hi rend="italic">OED</hi>,
+            ‘fee,’ sb. 2, 1b).</p></note>
+        <note type="enote" n="15">663<space rend="indent1"/><p>St. Peter’s Basilica was built by the
+            Emperor Constantine (beginning c. 324) and completed by his son Constantius (in c. 354).
+            Tradition says it was built over the grave of Peter the Apostle.</p></note>
+        <note type="enote" n="16">689<space rend="indent1"/><p>Smyser sees details such as the
+            reference to the Saracens’ cry of ‘antrarian’ to signify ‘joye generalle’ as a sign that
+            the author took ‘an innocent if slightly ostentatious delight in airing his learning of
+            things Saracen’ (p. 209).</p></note>
+        <note type="enote" n="17">850<space rend="indent1"/><p>There seems to be some confusion in
+            this poem between Charlemagne’s sword ‘Joyeuse’ and the battle cry of his troops,
+            ‘Monjoie.’ The identification of the two by the poet is paralleled by a linking of the
+            two in the <hi rend="italic">Chanson de Roland</hi> (see line 2510). The battle cry is
+            derived, according to one theory, from Monte Gaudia, the hill from which pilgrims first
+            see the eternal city. Another theory suggests that a ‘montjoie’ was ‘a mound or cairn of
+            stones set up to mark the site of a victory’ and that the cry ‘Montjoie St.-Denis’ or,
+            in a shortened form, ‘Montjoie’ ‘derived from the cairn set up at Saint-Denis on the
+            site of the saint’s martyrdom (his spiritual victory)’ (see Dorothy Sayers’ translation
+            of the <hi rend="italic">Chanson de Roland</hi>, note to line 1181).</p></note>
+        <note type="enote" n="18">857<space rend="indent1"/><p>The phrase ‘with harde grace’
+            (literally ‘with bad luck’) is used as an imprecation.</p></note>
+        <note type="enote" n="19">868<space rend="indent1"/><p>There seems to be some confusion in
+            this poem between Charlemagne’s sword ‘Joyeuse’ and the battle cry of his troops,
+            ‘Monjoie.’ The identification of the two by the poet is paralleled by a linking of the
+            two in the <hi rend="italic">Chanson de Roland</hi> (see line 2510). The battle cry is
+            derived, according to one theory, from Monte Gaudia, the hill from which pilgrims first
+            see the eternal city. Another theory suggests that a ‘montjoie’ was ‘a mound or cairn of
+            stones set up to mark the site of a victory’ and that the cry ‘Montjoie St.-Denis’ or,
+            in a shortened form, ‘Montjoie’ ‘derived from the cairn set up at Saint-Denis on the
+            site of the saint’s martyrdom (his spiritual victory)’ (see Dorothy Sayers’ translation
+            of the <hi rend="italic">Chanson de Roland</hi>, note to line 1181).</p></note>
+        <note type="enote" n="20">871<space rend="indent1"/><p>The ‘Baldesyns’ are the people of
+            Baldas (Bagdad).</p></note>
+        <note type="enote" n="21">875<space rend="indent1"/><p>Durendal is the famous sword of
+            Roland, given to him by Charlemagne who received it from an angel.</p></note>
+        <note type="enote" n="22">953<space rend="indent1"/><p>Tuesday is the day of Tiu, the
+            Germanic war god, identified with Mars. The Latin name for Tuesday, ‘dies Martis’ (which
+            survives in the French ‘mardi’) attests to the longstanding association of Tuesday with
+            Mars.</p></note>
+        <note type="enote" n="23">954<space rend="indent1"/><p>‘Myrre’ or myrrh is a gum-resin used
+            in perfumes and incense; ‘aloe’ is the fragrant resin or wood of the agalloch;
+            ‘frankensense’ or frankincense is the gum resin chiefly from East African or Arabian
+            trees of the genus Boswellia, which is used for incense.</p></note>
+        <note type="enote" n="24">986<space rend="indent1"/><p>On ‘Cassaundre,’ see note to line
+            113.</p></note>
+        <note type="enote" n="25">999<space rend="indent1"/><p>‘Inde Major’ probably refers to the
+            part of India between the Ganges and the Himalayas.</p></note>
+        <note type="enote" n="26">1001<space rend="indent1"/><p>‘Barbarye’ refers to the Saracen
+            lands on the north coast of Africa. The ‘Barbarens’ in line 1042 are the people from
+            this region.</p></note>
+        <note type="enote" n="27">1040<space rend="indent1"/><p>‘Paens’ (pagans) suggests
+            non-Christians, here probably referring to Muslims or Saracens. On the ‘Ascoloynes’ see
+            the note to line 497.</p></note>
+        <note type="enote" n="28">1298<space rend="indent1"/><p>St. Quentin is, according to <hi
+              rend="italic">The Oxford Dictionary of Saints</hi>, a ‘martyr of unknown date,
+            recorded by Bede and some early martyrologies, mentioned by Gregory of Tours as having a
+            church dedicated to him. The place where he suffered, Augusta Veromanduorum, is now
+            called Saint-Quentin (Aisne).’ Legend makes him ‘a Roman citizen who came to preach the
+            Gospel in Gaul with St. Lucian of Beauvais; Quentin preached at Amiens where the
+            probably fictitious prefect Rictiovarus arrested and interrogated him, finally killing
+            him by a series of fearsome tortures. . . .’</p></note>
+        <note type="enote" n="29">1357<space rend="indent1"/><p>It is common in Middle English to
+            use contrasting pairs to suggest completeness. Thus to say that the gods are false ‘by
+            water and londe’ implies that they are entirely false.</p></note>
+        <note type="enote" n="30">1390<space rend="indent1"/><p>In this line, ‘he’ refers to the
+            hauberk.</p></note>
+        <note type="enote" n="31">1445<space rend="indent1"/><p>The ‘holme’ tree is probably ‘the
+            evergreen oak (Quercus ilex)’ (<hi rend="italic">MED</hi>).</p></note>
+        <note type="enote" n="32">1604<space rend="indent1"/><p><hi rend="italic">MED</hi> indicates
+            that the form ‘maute’ as a past of ‘mene’ (here used in the sense of ‘to aim a stroke at
+            someone’) is an error. The normal past forms would be ‘mente,’ ‘mant,’ or
+          ‘mende.’</p></note>
+        <note type="enote" n="33">1691<space rend="indent1"/><p>As Hausknecht suggests, ‘Berry
+            Lardeneys’ must be a corruption of Thierry (sometimes appearing as ‘Terry’)
+            d’Ardane.</p></note>
+        <note type="enote" n="34">1713<space rend="indent1"/><p>According to tradition, St. Simon
+            the Apostle went with St. Jude to Persia, where they suffered martyrdom (see <hi
+              rend="italic">The Oxford Dictionary of Saints</hi>).</p></note>
+        <note type="enote" n="35">1726<space rend="indent1"/><p>The phrase ‘not worth a leek’ means
+            ‘of little or no value.’</p></note>
+        <note type="enote" n="36">1773–74<space rend="indent1"/><p>French and Hale suggest that
+            ‘leve’ should be taken in the double sense of ‘leave alone’ and ‘fail.’ The sense of the
+            lines is that Laban will follow the advice and force Charlemagne to surrender Ferumbras
+            and depart from his territory.</p></note>
+        <note type="enote" n="37">2092<space rend="indent1"/><p>A ‘quarelle’ is ‘a bolt for a
+            crossbow, an arblast, or a siege engine’ (<hi rend="italic">MED</hi>).</p></note>
+        <note type="enote" n="38">2156<space rend="indent1"/><p>The verb of motion is understood in
+            this line.</p></note>
+        <note type="enote" n="39">2285<space rend="indent1"/><p>French and Hale suggest emending
+            ‘pas’ to ‘par’ (bar, close). As it stands, the line suggests that the gates ‘pass by’ or
+            ‘extend across’ the narrow paths.</p></note>
+        <note type="enote" n="40">2601<space rend="indent1"/><p>‘The untutored and the learned’ is a
+            contrasting pair used to indicate all people. Thus the meaning of the line is, ‘He
+            spared no one.’</p></note>
+        <note type="enote" n="41">2761–62<space rend="indent1"/><p>Jupiter and Ascarot, like Apollo
+            and Mohammed, are taken to be gods of the Saracens.</p></note>
+        <note type="enote" n="42">2787<space rend="indent1"/><p>A ‘besaunte’ is ‘a gold coin first
+            struck at Byzantium or Constantinople . . . in value between the English sovereign and
+            half-sovereign or less’ (<hi rend="italic">OED</hi>).</p></note>
+        <note type="enote" n="43">2845<space rend="indent1"/><p>Hausknecht believes that ‘Fremounde’
+            ‘cannot be the true reading, as it does not rhyme with <hi rend="italic">kinge</hi>.’
+            There are, however, other places in the text where the rhyme is less than perfect. If he
+            is correct, it may be that the scribe substituted the name of Fremund because he was an
+            English saint. Though he may have been a fictional character, he was reputedly,
+            according to the <hi rend="italic">Oxford Dictionary of Saints</hi>, ‘a relative of
+            Offa, king of Mercia, and of Edmund, king of East Anglia [who] became a hermit. But as
+            he had royal blood, he was a possible claimant to the throne of Mercia and was killed by
+            an apostate kinsman Oswy, with the help of some of the same Danish army who slew
+            Edmund.’</p></note>
+        <note type="enote" n="44">2887<space rend="indent1"/><p>‘Pellure’ refers to furs in general;
+            ‘gryse’ is ‘a grey fur; prob. fur from the back of the Russian gray squirrel in winter’
+              (<hi rend="italic">MED</hi>).</p></note>
+      </div>
+    </body>
+  </text>
+</TEI>

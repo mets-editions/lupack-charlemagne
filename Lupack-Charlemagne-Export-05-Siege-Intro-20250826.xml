@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Lupack-Charlemagne-Export-05-Siege-Intro-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Introduction to The Siege of Milan</title>
+        <author>Lupack, Alan</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-08" to="2025-09">Audited documents prior to print/export</resp>
+          <resp from="2025-07" to="2025-08">Collected metadata</resp>
+          <resp from="2025-05" to="2025-07">Copyedited and proofread</resp>
+          <resp from="2025-09" to="2025-09">Encoded TEI</resp>
+          <resp from="2025-07" to="2025-08">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-05" to="2025-08">Entered corrections for digital edition</resp>
+          <resp from="2025-05" to="2025-07">Entered corrections for print edition</resp>
+          <resp from="2025-05" to="2025-08">Formatted for XML export</resp>
+          <resp from="2025-09" to="2025-09">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2023-11" to="2023-11">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Texas</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Lupack, Alan</editor>
+            <title>Three Middle English Charlemagne Romances</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>1990</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/lupack-charlemagne/blob/main/lupack-charlemagne-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 1990</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Lupack-Charlemagne-Export-05-Siege-Intro"/>
+      <div type="text">
+        <p style="bodyfirst" n="1"><hi rend="italic">The Sege of Melayne</hi> is found in the
+          British Museum manuscript Additional 31042 (fols. 66b–79b). Referred to as the London
+          Thornton manuscript, it is one of two collections of medieval writings known to have been
+          copied by Robert Thornton of East Newton in Yorkshire. (The other is the Lincoln Cathedral
+          manuscript 91, commonly referred to as the Thornton manuscript.) The British Museum
+          manuscript dates from about 1450, though the poem itself was probably written some time in
+          the second half of the fourteenth century. The poem is written in a northern dialect.
+          Features of this dialect include the present participle in -<hi rend="italic">and(e)</hi>
+          rather than -<hi rend="italic">ing</hi> (as in ‘gronande’ and ‘spekande’); the third
+          person plural of the present tense in -<hi rend="italic">es</hi> or -<hi rend="italic"
+            >is</hi> (as in ‘men that luffes’ and ‘knyghtis bledis’); third person plural pronouns
+          in <hi rend="italic">th</hi>- (as in ‘thay’ and ‘tham’); and particularly northern forms
+          such as ‘till’ (for ‘to’), ‘sall’ (for ‘shall’) and ‘solde’ (for ‘should’).</p>
+        <p style="body" n="1"><hi rend="italic">The Sege of Melayne</hi> is fragmentary, the romance
+          ending in the manuscript just as the French forces are besieging Milan and, surely, just
+          before they capture the city C with, undoubtedly, a good deal of heroics by Archbishop
+          Turpin. The poem is written in a twelve-line stanza rhyming <hi rend="italic"
+            >aabccbddbeeb</hi>, though there are places where the rhyme scheme is not perfectly
+          maintained.</p>
+        <p style="body" n="2"><hi rend="italic">The Sege of Melayne</hi> is considered part of the
+          Otinel (or Otuel) group of Charlemagne romances. Otinel is a Saracen knight who, like
+          Ferumbras, is converted after a fierce battle with one of Charlemagne’s Peers, in this
+          case Roland. The combat itself is described in the Middle English poems <hi rend="italic"
+            >Otuel</hi> and <hi rend="italic">Otuel and Roland</hi>. Neither the combat nor even the
+          character of Otuel appears in this poem as it has come down to us, but it is classified
+          with the Otinel romances because only in these is Garcy the ruler of Lombardy.</p>
+        <p style="body" n="3">But perhaps more interesting than its place in a cycle of romances is
+          the fact that there is no known source for <hi rend="italic">The Sege of Melayne</hi>.
+          Dieter Mehl has suggested that the poem may have ‘originated in England’ (p. 153). The
+          conjecture is plausible because, more than any other Charlemagne romance, <hi
+            rend="italic">The Sege of Melayne</hi> is a poem about a religious struggle rather than
+          a glorification of the military prowess of the French king and his warriors. There is a
+          sense that God, not Charlemagne, is directing the action and working through his minister,
+          Turpin. As W. R. J. Barron observes,</p>
+        <quote>the focus of interest has shifted so that the religious theme of defense of the faith
+          dominates almost to the exclusion of the feudal theme of conflicting loyalties, while the
+          rare miraculous interventions of the early <hi rend="italic">chansons</hi> now rival the
+          military action in importance. (p. 97)</quote>
+        <p style="bodysubsection" n="1">It is a vision in which an angel appears to Charlemagne and
+          gives him a sword that inspires the holy war against the Saracens. And throughout the
+          poem, God assists those fighting the Saracens in symbolic and real ways, so much so that
+          ‘the romantic story-material is . . . given a strictly religious interpretation and is
+          often embellished in the manner of Saints’ legends’ (Mehl, p. 156). Richard of Normandy,
+          mortally wounded himself, is comforted by a vision of the slain French knights being led
+          to heaven. When the Sultan Arabas tries to show the powerlessness of the God of the
+          Christians by burning a crucifix, not only does it not burn but a fire flashes forth and
+          blinds the Saracens, giving the French captives time to slay Arabas and to escape on
+          horses miraculously provided for them (horses which equally miraculously disappear when
+          the knights have reached safety).</p>
+        <p style="body" n="4">Central to the shift towards a religious focus is the character of
+          Bishop Turpin. Although the term may seem alien to medieval romance, <hi rend="italic">The
+            Sege of Melayne</hi> borders on being a character study. Turpin is pictured as an
+          unswerving defender of the faith. He demands high standards and correct action from those
+          around him and even more from himself. Nor is he afraid to use the spiritual or political
+          power of his religious position. When he hears how Roland’s forces have been defeated by
+          the Saracens, he assembles the clergy of the realm and leads them in the vanguard of an
+          attack on their enemy. He curses Ganelon for his bad advice and when Charlemagne,
+          following Ganelon’s counsel, refuses to lead the forces against the Saracens, Turpin
+          excommunicates Charlemagne and declares him an enemy of God and, in effect, a coward.
+          Turpin is ready to fight Charlemagne at the very moment of this confrontation. They are
+          restrained by the lords of the land, but Turpin threatens to besiege Paris and to burn and
+          raze the city. When Turpin assembles his troops before the city, Charlemagne is forced to
+          relent and ask forgiveness from the Archbishop.</p>
+        <p style="body" n="5">In addition to this major conflict, there are some small touches that
+          make the character of Turpin interesting. When he hears of the defeat of the French
+          forces, he says, in a passage almost reminiscent of Laban’s complaints against his gods in
+            <hi rend="italic">The Sowdone of Babylon</hi>, that Mary is to blame for the loss of the
+          French lives and tells her that if she had not been born (and thus had not brought Christ
+          and his religion into the world), those good men would not have died. He is so preoccupied
+          with the disaster that when he encounters Charlemagne he doesn’t even greet him, a small
+          detail that suggests Turpin’s single-minded dedication to his cause.</p>
+        <p style="body" n="6">When Turpin and Charlemagne return to avenge the loss, the Archbishop
+          once again displays unwavering dedication to the struggle and becomes the voice of
+          conscience reminding others of their duty. Turpin’s own squire stops to despoil the body
+          of a Saracen named Arabant, whom the Archbishop has slain. But his master tells him that
+          he should not be worrying about gold when there are more Saracens to kill. He beats the
+          squire with his sword to make him drop his loot and return to the battle.</p>
+        <p style="body" n="7">Perhaps the most impressive and revealing action taken by Turpin is
+          his refusal to allow any attempts to treat his wounds until the city of Milan is
+          recaptured. Earlier, he reminded Charlemagne of the suffering of Christ and berated him
+          for being unwilling to suffer in Christ’s cause. Turpin himself shows no such
+          unwillingness. Twice wounded, he looks to Christ’s example: ‘He askede no salve to His
+          sare, / Ne no more sall I this tyde’ (ll. 1346–47). Despite his wounds he encourages
+          Charlemagne to attack a greatly superior force. And though the manuscript breaks off
+          before the fall of the city, there can be no doubt that Turpin honored his vow not to
+          accept treatment or to eat or drink until Milan was taken.</p>
+        <p style="body" n="8">By giving such a clear picture of a man devoted to a cause, <hi
+            rend="italic">The Sege of Melayne</hi> presents an interesting variation on the usual
+          themes of the Charlemagne romances. Though containing a number of traditional motifs, such
+          as Ganelon’s treachery, Charlemagne’s conflict with one of his Peers, and the battles
+          between large numbers of troops, <hi rend="italic">The Sege of Melayne</hi> achieves some
+          originality through its emphasis on Turpin as the military, political, spiritual and moral
+          center of the poem.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

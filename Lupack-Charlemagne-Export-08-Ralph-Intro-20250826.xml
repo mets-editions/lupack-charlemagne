@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Lupack-Charlemagne-Export-08-Ralph-Intro-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Introduction to The Tale of Ralph the Collier</title>
+        <author>Lupack, Alan</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-08" to="2025-09">Audited documents prior to print/export</resp>
+          <resp from="2025-07" to="2025-08">Collected metadata</resp>
+          <resp from="2025-05" to="2025-07">Copyedited and proofread</resp>
+          <resp from="2025-09" to="2025-09">Encoded TEI</resp>
+          <resp from="2025-07" to="2025-08">Ensured adherence to METS Style Guide</resp>
+          <resp from="2025-05" to="2025-08">Entered corrections for digital edition</resp>
+          <resp from="2025-05" to="2025-07">Entered corrections for print edition</resp>
+          <resp from="2025-05" to="2025-08">Formatted for XML export</resp>
+          <resp from="2025-09" to="2025-09">Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2023-11" to="2023-11">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2025</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Texas</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Lupack, Alan</editor>
+            <title>Three Middle English Charlemagne Romances</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>1990</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/lupack-charlemagne/blob/main/lupack-charlemagne-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edition published in 1990</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Lupack-Charlemagne-Export-08-Ralph-Intro"/>
+      <div type="text">
+        <p style="bodyfirst" n="1">The story of <hi rend="italic">Rauf Coilyear</hi> has come down
+          to us in an edition printed in 1572. No manuscript survives and only one copy (owned by
+          the National Library of Scotland) of this earliest printed text exists. The poem is a late
+          product of the movement known as the Alliterative Revival, a revival — or more likely the
+          continuation of a tradition — of the use of alliterative verse that extends back to the
+          Old English period. The poems written in alliterative verse employ alliteration as a
+          controlling metrical device. As in Old English, lines are divided into two half-lines
+          linked by similar initial sounds. Middle English alliterative verse does not follow
+          strictly the rules of the Anglo-Saxon, but the basic metrical principles survive. While
+          examples of Middle English alliterative verse can be found from the twelfth century on
+          (Layamon’s <hi rend="italic">Brut</hi> being the prime example), from the middle of the
+          fourteenth century well into the fifteenth, there is once again a widespread use of
+          alliterative verse. Some of the greatest Middle English poems, including <hi rend="italic"
+            >Sir Gawain and the Green Knight</hi>, <hi rend="italic">Piers Plowman</hi>, and the
+          alliterative <hi rend="italic">Morte Arthure</hi> are products of this revival.</p>
+        <p style="body" n="1">The romance was written in the latter part of the fifteenth century in
+          a Scottish dialect and exhibits many of the characteristic traits of that dialect. In the
+          present tense, both the third person singular and the third person plural are indicated by
+          the ending -<hi rend="italic">is</hi> (as in ‘buik sayis’; ‘he rydis’; ‘menstrallis
+          playis’; and ‘men that counteris’). The present participle is indicated by -<hi
+            rend="italic">and</hi> rather than -<hi rend="italic">ing</hi> (as in ‘lykand’ and
+          ‘walkand’). The pronoun ‘she’ appears as ‘scho’; and the third person plural pronoun has
+          forms in <hi rend="italic">th</hi> (as in ‘them,’ where southern and central dialects
+          would use ‘hem’). A number of other spellings and forms found in the poem are also typical
+          of the Scottish dialect. The Old English long <hi rend="italic">a</hi>, which becomes <hi
+            rend="italic">o</hi> in central and southern dialects, remains as <hi rend="italic"
+            >a</hi> (as in ‘hame’ for ‘home’; ‘ga’ for ‘go’; and ‘sa’ for ‘so’). The <hi
+            rend="italic">wh</hi> of other dialects appears as <hi rend="italic">quh</hi> (as in
+          ‘quhair’ for ‘where’; ‘quhat’ for ‘what’; and ‘quhen’ for ‘when’). The <hi rend="italic"
+            >sh</hi> of more southern dialects appears as <hi rend="italic">s</hi> in ‘sall’ (for
+          ‘shall’), ‘suld’ (for ‘should’) and ‘salbe’ for (‘shall be’). Other typically Scottish
+          forms include ‘schir’ for ‘sir’ and ‘till’ (occasionally) for ‘to.’</p>
+        <p style="body" n="2"><hi rend="italic">Rauf Coilyear</hi> is written in the thirteen-line
+          stanza used in such other alliterative poems as <hi rend="italic">Golagros and
+            Gawaine</hi> and the <hi rend="italic">Awntyrs of Arthure</hi>. The stanza generally
+          contains nine long (four-stress) lines, each of which is governed by alliteration, and
+          four shorter lines which may or may not alliterate. The stanza also has a rhyme scheme of
+            <hi rend="italic">ababababcdddc</hi>. As in all alliterative verse, there is
+          considerable use of formulaic phrases, phrases such as ‘proudest in pane’ or ‘with birny
+          and brand,’ which are used repeatedly within alliterative poetry to satisfy the
+          metrical/alliterative needs of a portion of a line. Despite the traditional nature of
+          these recurring phrases, the poet has — as Elizabeth Walsh observes in her article on the
+          poem — used alliterative formulas in such a way that they ‘can be said to have some
+          significance in the poem as elements of characterisation and/or as relating to thematic
+          content’ (p. 17).</p>
+        <p style="body" n="3">The poet demonstrates his craftsmanship not only as an alliterative
+          poet but also as the author of a Charlemagne romance. For here too, he has made use of the
+          traditional with great skill. <hi rend="italic">Rauf Coilyear</hi> is one of those Middle
+          English Charlemagne poems known as ‘detached romances.’ That is, it belongs neither to the
+          Ferumbras nor the Otuel group. There is, in fact, no known source for this poem, though
+          there are analogues to each of the two parts. As a number of critics have pointed out, the
+          first part of the poem is a version of the king-in-disguise motif common in folklore. In
+          England the motif goes back to a story told about Alfred the Great. (In her edition, Walsh
+          refers to many other analogous stories.) The second part of the poem parodies, as Barron
+          has observed, ‘the Christian-Muslim combats of <hi rend="italic">Otuel</hi> and <hi
+            rend="italic">Firumbras</hi>’ (p. 181). These two parts are woven together only loosely
+          by a developing line of action. More important is the thematic unity that links the two
+          parts.</p>
+        <p style="body" n="4">The first part of the poem treats the rough but sincere hospitality
+          Charlemagne receives from the simple collier. The treatment is much rougher than that to
+          which the King is accustomed. When Rauf and Charlemagne arrive at Rauf’s house and the
+          guest stands aside to let his host enter first, Rauf accuses him of being discourteous and
+          shoves him into the house, telling the King that he ought to ‘make me lord of my awin’ (l.
+          128). Later, after another breach of courtesy, Rauf strikes the King and instructs him to
+          do as Rauf tells him because it is his (Rauf’s) house. The King’s reactions show that he
+          realizes he should have recognized the right of a man to rule in his own home.</p>
+        <p style="body" n="5">Charlemagne’s failure, initially, to recognize Rauf’s preeminence is
+          matched by a lack of recognition on Rauf’s part. He does not recognize (in the two senses
+          of the word) the King. He does not know what his monarch looks like and so unquestioningly
+          accepts a pseudonym as his real name, even when Rauf’s wife has difficulty in believing
+          that their grand guest is ‘Wymond of the Wardrop’; and Rauf fails to observe the King’s
+          laws, at least as regards hunting in the royal forests. Rauf’s lack of knowledge goes even
+          further than not knowing what the King looks like. When invited to bring a load of coal
+          for sale at court, Rauf admits that he has ‘na knawledge quhair the court lyis’ (l.
+          246).</p>
+        <p style="body" n="6">By having Rauf come to the court, the King begins his knightly
+          education by having him recognize — in both senses — his ruler. But Charlemagne also wants
+          Rauf to prove himself, to win his shoes. As Rauf rides out in quest of adventure, his
+          awareness is again deficient. He cannot distinguish between the Saracen Sir Magog and Sir
+          Roland whom he has previously challenged — even though Magog rides a camel instead of a
+          horse. Upon learning that Magog is a Saracen, Rauf is overjoyed to be fighting for the
+          faith.</p>
+        <p style="body" n="7">When Roland rides up and interrupts the battle, he immediately
+          recognizes Magog as an infidel and even comments on this recognition: ‘Thow art ane
+          Sarasine, I se be my sicht’ (l. 871). Instead of wishing to fight Magog, Roland wants to
+          convert him. Just as Rauf was taught to recognize a king in two senses, so he is taught to
+          recognize a Saracen on two levels: first physically and then as a religiously errant soul
+          to be saved. Roland shows Rauf that victory over Magog’s false faith is more important
+          than victory over his person.</p>
+        <p style="body" n="8">But even more transpires in this scene. When Roland interrupts the
+          combatants and encourages Magog to convert, the Saracen refuses and wants to continue
+          fighting. Roland points out the foolishness of this course of action and after being
+          threatened again tells Magog that it is folly to enjoy worldly wealth now and to spend
+          eternity in hell. But he seems to contradict himself when he offers the Saracen profit and
+          pardon if he will convert. At least he is not wholly aware of the meaning of the words he
+          has just spoken (in ll. 918–20). Thus Roland, like Rauf, needs to be made more aware of
+          the true values his knighthood and religion stand for. Both can learn a lesson from the
+          reaction of the Saracen who doesn’t care about riches but says that if ‘thy God be sa gude
+          as I heir the say, / I will forsaik Mahoun’ (ll. 937–38). Magog thus becomes another agent
+          in the education of a knight; and the tested Roland can learn from him as well as the
+          untried Rauf can. Magog’s reply makes (or should make) both of them aware of the
+          distinction between a faith based on personal gain and a faith based on love of God.</p>
+        <p style="body" n="9">The author uses the debate surrounding the conversion as both a
+          satiric comment on Roland’s failure in religious awareness and as the final phase of
+          instruction for Rauf. The author has skillfully manipulated the Christian-Saracen conflict
+          so that the verbal contest becomes more important than the martial.</p>
+        <p style="body" n="10">The two parts of the poem are thus linked by the theme of recognition
+          or awareness — on the political, religious and personal levels that must combine to make
+          one a good knight or, we might say, a good person. (The blurring of the distinction is
+          significant in this late poem where the heroic conventions of earlier romance and
+          certainly of the <hi rend="italic">chansons de gestes</hi> are taken with a grain of
+          salt.) The theme is evident from the very beginning of the poem: the storm in which
+          Charlemagne loses his way is a perfect symbol for the lack of awareness that must be
+          dispelled in the course of the romance.</p>
+        <p style="body" n="11">Though the author makes a serious point, he does so through a comic
+          tale. It would be a mistake to read <hi rend="italic">Rauf Coilyear</hi> without
+          recognizing the humor involved in the harboring of a king by a simple collier. Many
+          incidents contribute to this humor — from the slapstick buffeting of Charlemagne, the
+          emperor instructed by a collier, to Roland’s mild annoyance at being sent out to watch the
+          lonely road on a day that is supposed to be a holiday. The elements of parody contribute
+          to the humor. The traditional fight with the Saracen turns into a religious debate. The
+          King’s being separated from his followers has echoes of the separation of Charlemagne from
+          his troops and his abandonment due to the treachery of Ganelon in <hi rend="italic">The
+            Sowdone of Babylone</hi>. This lighthearted use of the Charlemagne material makes <hi
+            rend="italic">Rauf Coilyear</hi> perhaps the best and certainly the most entertaining of
+          the Middle English Charlemagne romances.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
